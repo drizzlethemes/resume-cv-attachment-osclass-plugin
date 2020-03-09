@@ -1,4 +1,4 @@
-<h1><?php _e('Resume Uploader plugin', 'resume_uploader'); ?></h1>
+<h1><?php _e('Resume Uploader', 'resume_uploader'); ?></h1>
 
 <h3><?php _e('What the plugin does?', 'resume_uploader'); ?></h3>
 <p><?php _e('The Resume Uploader plugins help to user to upload their CV on while register on your site. they can update the resume in my account page.', 'resume_uploader'); ?></p>
@@ -10,6 +10,6 @@
 <h3><?php _e('About', 'resume_uploader'); ?></h3>
 <p>
 <?php _e('Plugin Name', 'resume_uploader'); ?>: Resume uploader<br />
-<?php _e('Version', 'resume_uploader'); ?>    : 1.0.0<br />
-<?php _e('Author', 'resume_uploader'); ?>     : Madriba<br />
+<?php _e('Version', 'resume_uploader'); ?>    : 1.0.1<br />
+<?php _e('Author', 'resume_uploader'); ?>     : DrizzleThemes<br />
 </p>
