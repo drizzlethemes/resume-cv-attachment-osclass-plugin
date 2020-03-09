@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Resume Uploder plugin For Osclass\n"
+"POT-Creation-Date: 2017-10-30 21:08+0530\n"
+"PO-Revision-Date: 2017-10-30 21:08+0530\n"
+"Last-Translator: \n"
+"Language-Team: madriba\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__(\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/help.php:1
+msgid "Resume Uploader plugin"
+msgstr ""
+
+#: admin/help.php:3
+msgid "What the plugin does?"
+msgstr ""
+
+#: admin/help.php:4
+msgid ""
+"The Resume Uploader plugins help to user to upload their CV on while "
+"register on your site. they can update the resume in my account page."
+msgstr ""
+
+#: admin/help.php:5
+msgid "How to show the resume?"
+msgstr ""
+
+#: admin/help.php:6
+msgid "Use this code to show the CV"
+msgstr ""
+
+#: admin/help.php:7
+msgid "Show CV on public profile page"
+msgstr ""
+
+#: admin/help.php:8
+msgid "Show CV on item post detail page"
+msgstr ""
+
+#: admin/help.php:10
+msgid "About"
+msgstr ""
+
+#: admin/help.php:12
+msgid "Plugin Name"
+msgstr ""
+
+#: admin/help.php:13
+msgid "Version"
+msgstr ""
+
+#: admin/help.php:14
+msgid "Author"
+msgstr ""
+
+#: admin/settings.php:1
+msgid "Resume Uploader Settings"
+msgstr ""
+
+#: admin/settings.php:18
+msgid "Yes"
+msgstr ""
+
+#: admin/settings.php:28
+msgid "Save changes"
+msgstr ""
+
+#: index.php:73 user-resume.php:27 view-resume.php:9
+msgid "views"
+msgstr ""
+
+#: index.php:74 user-resume.php:28
+msgid "Last updated on"
+msgstr ""
+
+#: index.php:76 user-resume.php:30
+msgid "View"
+msgstr ""
+
+#: index.php:77 user-resume.php:31 view-resume.php:9
+msgid "Download"
+msgstr ""
+
+#: index.php:87
+msgid "Upload your CV"
+msgstr ""
+
+#: user-resume.php:21
+msgid "My Resume"
+msgstr ""
+
+#: user-resume.php:29
+msgid "Delete"
+msgstr ""
+
+#: user-resume.php:34
+msgid "You are not uploaded any resume yet!"
+msgstr ""
+
+#: user-resume.php:35
+msgid "Upload Now"
+msgstr ""
+
+#: user-resume.php:40
+msgid "Submit"
+msgstr ""
+
+#: view-resume.php:12
+msgid "File Not Available"
+msgstr ""
