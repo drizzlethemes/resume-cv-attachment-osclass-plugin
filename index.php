@@ -1,13 +1,12 @@
 <?php
 /*
 Plugin Name: Resume Uploader
-Plugin URI: http://www.osclass.org
+Plugin URI: https://github.com/drizzlethemes/resume-cv-uploader-osclass-plugin.git
 Description: Resume Uploader helps to upload Resume while register.
 Version: 1.0.1
-Author: Madriba
-Author URI: http://www.madriba.com/
-Short name: Resume Uploader
-Plugin update URI: resume-uploader
+Author: DrizzleThemes
+Author URI: https://www.drizzlethemes.com/
+Short name: resume_uploader
 */
 
 include "ModelResume.php";
@@ -79,8 +78,6 @@ function userResume($user){
         </div>
 	<?php }
 }
-
-
 
 function resumeUploader_form(){ ?>
 	<div class="control-group">
